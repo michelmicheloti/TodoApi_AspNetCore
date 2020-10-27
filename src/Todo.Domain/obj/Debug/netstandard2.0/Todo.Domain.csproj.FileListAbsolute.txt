@@ -1,0 +1,9 @@
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb

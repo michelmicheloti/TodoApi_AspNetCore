@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yG2lKasAFpGGqDpRcs55XmrqiK389G9vMAME3Rs9gDr0zCvsUJt4zVFW/sSJjZ9OOa3NNpcdNEGB3dbBpV1B3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saommich\\Desktop\\BaltaIO\\Todo\\src\\Todo.Domain\\Todo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saommich\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\saommich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saommich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
