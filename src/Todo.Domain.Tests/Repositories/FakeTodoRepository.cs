@@ -12,25 +12,25 @@ namespace Todo.Domain.Tests.Repositories
 
         }
 
-        public IEnumerable<TodoItem> GelAll(string user)
+        public IEnumerable<TodoItem> GetAll(string user)
         {
             var model = new List<TodoItem>();
             return model;
         }
 
-        public IEnumerable<TodoItem> GelAllDone(string user)
+        public IEnumerable<TodoItem> GetAllDone(string user)
         {
             var model = new List<TodoItem>();
             return model;
         }
 
-        public IEnumerable<TodoItem> GelAllUndone(string user)
+        public IEnumerable<TodoItem> GetAllUndone(string user)
         {
             var model = new List<TodoItem>();
             return model;
         }
 
-        public IEnumerable<TodoItem> GelByPeriod(string user, DateTime date, bool done)
+        public IEnumerable<TodoItem> GetByPeriod(string user, DateTime date, bool done)
         {
             var model = new List<TodoItem>();
             return model;

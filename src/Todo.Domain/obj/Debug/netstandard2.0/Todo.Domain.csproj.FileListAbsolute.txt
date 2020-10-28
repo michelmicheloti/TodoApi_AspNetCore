@@ -7,3 +7,12 @@ C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\
 C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csproj.CoreCompileInputs.cache
 C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
 C:\Users\saommich\Desktop\BaltaIO\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb
+E:\3_Balta\Todo\src\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+E:\3_Balta\Todo\src\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+E:\3_Balta\Todo\src\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+E:\3_Balta\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+E:\3_Balta\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+E:\3_Balta\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+E:\3_Balta\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csproj.CoreCompileInputs.cache
+E:\3_Balta\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+E:\3_Balta\Todo\src\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb

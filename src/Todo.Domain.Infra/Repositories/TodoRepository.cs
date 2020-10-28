@@ -24,7 +24,7 @@ namespace Todo.Domain.Infra.Repositories
             _context.SaveChanges();
         }
 
-        public IEnumerable<TodoItem> GelAll(string user)
+        public IEnumerable<TodoItem> GetAll(string user)
         {
             return _context.Todos
                 .AsNoTracking()
@@ -32,7 +32,7 @@ namespace Todo.Domain.Infra.Repositories
                 .OrderBy(x => x.Date);
         }
 
-        public IEnumerable<TodoItem> GelAllDone(string user)
+        public IEnumerable<TodoItem> GetAllDone(string user)
         {
             return _context.Todos
                 .AsNoTracking()
@@ -40,7 +40,7 @@ namespace Todo.Domain.Infra.Repositories
                 .OrderBy(x => x.Date);
         }
 
-        public IEnumerable<TodoItem> GelAllUndone(string user)
+        public IEnumerable<TodoItem> GetAllUndone(string user)
         {
             return _context.Todos
                 .AsNoTracking()
@@ -48,7 +48,7 @@ namespace Todo.Domain.Infra.Repositories
                 .OrderBy(x => x.Date);
         }
 
-        public IEnumerable<TodoItem> GelByPeriod(string user, DateTime date, bool done)
+        public IEnumerable<TodoItem> GetByPeriod(string user, DateTime date, bool done)
         {
             return _context.Todos
                 .AsNoTracking()

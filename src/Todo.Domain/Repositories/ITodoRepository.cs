@@ -11,9 +11,9 @@ namespace Todo.Domain.Repositories
 
          TodoItem GetById(Guid id, string user);
 
-         IEnumerable<TodoItem> GelAll(string user);
-         IEnumerable<TodoItem> GelAllDone(string user);
-         IEnumerable<TodoItem> GelAllUndone(string user);
-         IEnumerable<TodoItem> GelByPeriod(string user, DateTime date, bool done);
+         IEnumerable<TodoItem> GetAll(string user);
+         IEnumerable<TodoItem> GetAllDone(string user);
+         IEnumerable<TodoItem> GetAllUndone(string user);
+         IEnumerable<TodoItem> GetByPeriod(string user, DateTime date, bool done);
     }
 }
