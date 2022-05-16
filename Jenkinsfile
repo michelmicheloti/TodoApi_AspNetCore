@@ -3,9 +3,7 @@ pipeline {
   stages {
     stage('error') {
       steps {
-        sh '''apt update
-apt install nodejs
-apt install npm '''
+        sh 'apt-get update && apt-get install nodejs && apt-get install npm '
         sh 'snap install --classic heroku'
       }
     }
